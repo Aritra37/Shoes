@@ -88,9 +88,9 @@ section.top
     .down-arrow{
         stroke:white;
         position: absolute;
-        bottom: 2em;
+        bottom: 8em;
         width: 1em;
-        animation: moveArrow 1s alternate-reverse infinte;
+        animation: moveArrow 1s alternate-reverse infinite;
         path{
             fill: white;
         }
